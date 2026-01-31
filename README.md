@@ -48,16 +48,16 @@ Example:
 Keyboard controls map to the CHIP-8 hexadecimal keypad (0-F). 4x4 Keypad mappped to keyboard.
 
 CHIP-8: <br>
-[1][2][3][C]
-[4][5][6][D]
-[7][8][9][E]
-[A][0][B][F]
-
-QWERTY Keyboard:
-[1][2][3][4]
-[Q][W][E][R]
-[A][S][D][F]
-[Z][X][C][V]
+[1][2][3][C] <br>
+[4][5][6][D] <br>
+[7][8][9][E] <br>
+[A][0][B][F] <br>
+ <br>
+QWERTY Keyboard: <br>
+[1][2][3][4] <br>
+[Q][W][E][R] <br>
+[A][S][D][F] <br>
+[Z][X][C][V] <br>
 
 
 Press ESC or close the window to quit.
